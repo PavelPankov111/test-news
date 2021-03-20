@@ -5,3 +5,4 @@
 2) npm run dev
 ```
 
+## Gh-pages: https://pavelpankov111.github.io/test-news/
