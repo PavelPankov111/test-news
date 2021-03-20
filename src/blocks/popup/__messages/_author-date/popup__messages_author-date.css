@@ -1,0 +1,6 @@
+.popup__messages_author-date {
+    display: flex;
+    width: 570px;
+    margin: 5px auto auto auto;
+    font-size: 13px;
+}

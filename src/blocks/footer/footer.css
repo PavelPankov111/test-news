@@ -1,0 +1,10 @@
+@import url(./__button/footer__button.css);
+@import url(./__title/footer__title.css);
+.footer {
+    max-width: 1280px;
+    max-height: 300px;
+    border-top: 1px solid white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+}

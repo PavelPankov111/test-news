@@ -1,0 +1,13 @@
+@import url(./__icon/preloader__icon.css);
+@import url(./__text/preloader__text.css);
+.preloader {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}

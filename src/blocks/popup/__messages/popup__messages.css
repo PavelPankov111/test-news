@@ -1,0 +1,14 @@
+@import url(./_author/popup__messages_author.css);
+@import url(./_container/popup__messages_container.css);
+@import url(./_date/popup__messages_date.css);
+@import url(./_details/popup__messages_details.css);
+@import url(./_status/popup__messages_status.css);
+@import url(./_title/popup__messages_title.css);
+@import url(./_box/popup__messages_box.css);
+@import url(./_author-date/popup__messages_author-date.css);
+@import url(./_title-status/popup__messages_title-status.css);
+.popup__messages {
+    height: 430px;
+    background-color: black;
+    width: 690px;
+}

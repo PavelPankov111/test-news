@@ -1,0 +1,7 @@
+.popup__messages_box {
+    width: 600px;
+    height: 60px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}

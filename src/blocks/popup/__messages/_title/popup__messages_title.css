@@ -1,0 +1,8 @@
+.popup__messages_title {
+    margin: 0;
+    margin-right: 5px;
+    max-width: 500px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}

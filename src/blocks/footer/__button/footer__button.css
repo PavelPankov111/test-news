@@ -1,0 +1,15 @@
+.footer__button {
+    margin: auto;
+    width: 150px;
+    height: 100px;
+    display: flex;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+}
+
+.footer__button:hover {
+    opacity: .5;
+    transition: .2s;
+}

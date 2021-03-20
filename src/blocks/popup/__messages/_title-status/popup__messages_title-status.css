@@ -1,0 +1,9 @@
+.popup__messages_title-status {
+    display: flex;
+    color: white;
+    width: 570px;
+    margin: 0 auto auto;
+    font-size: 13px;
+    flex-direction: row;
+    align-items: center;
+}

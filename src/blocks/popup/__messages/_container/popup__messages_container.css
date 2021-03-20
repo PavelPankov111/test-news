@@ -1,0 +1,9 @@
+.popup__messages_container {
+    width: 610px;
+    height: 390px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin: auto;
+    margin-top: 20px;
+    overflow-y: scroll;
+}
