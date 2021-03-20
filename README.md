@@ -5,4 +5,5 @@
 2) npm run dev
 ```
 
+## Автор: Павел Панков
 ## Gh-pages: https://pavelpankov111.github.io/test-news/
