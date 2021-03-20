@@ -12,7 +12,7 @@ export default function Footer() {
     button.type = 'button'
     const title = document.createElement('h3')
     title.className = 'footer__title'
-    title.textContent = `Колличество сообщений: ${1}`
+    title.textContent = `Колличество сообщений: ${0}`
 
     footer.appendChild(button)
 

@@ -1,4 +1,4 @@
-let numberMessage = 1
+let numberMessage = 0
 
 export function Message(text = 'Добрый день, надеюсь вам понравилось мое тестовое здание') {
     const popupMessageContainer = document.querySelector('.popup__messages_container')
